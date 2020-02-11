@@ -1,4 +1,0 @@
-Hi guys! Hope that git would be helpful.
-Kind of curious how branching works in git.
-Making some changes on foo.txt of change_foo branch.
-master: Let's try 'rebasing'.
