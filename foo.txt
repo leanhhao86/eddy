@@ -1,3 +1,5 @@
 Hi guys! Hope that git would be helpful.
 Kind of curious how branching works in git.
-Let's try out 'merging'.
+<<<<<<< HEAD
+=======
+>>>>>>> change_foo
